@@ -18,7 +18,6 @@
 #include <netinet/in.h>
 #include <sys/socket.h>
 #include "ansisopPath.h"
-#include "getDatoInfoConex.h"
 #include "leerArchivo.h"
 #include "tamanioArchivo.h"
 #include <commons/config.h>
